@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+<h1>React-Apollo graphql-Zero API</h1>
+
+<h2>This project was created as exercise to learn Apollo GraphQL</h2>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
